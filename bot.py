@@ -5,7 +5,7 @@ from telegram.ext import Updater, CommandHandler, CallbackQueryHandler, Callback
 import requests
 import json
 import random as rd
-TOKEN = '<Telegram Token Here>'
+TOKEN = '1956525183:AAH3DM7uWKWMJOUpWsG7YzTlKEo3_9jfZ08'
 logging.basicConfig(
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO
 )
